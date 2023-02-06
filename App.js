@@ -2,13 +2,14 @@ import { StatusBar } from 'expo-status-bar';
 import { NativeBaseProvider } from 'native-base';
 import { StyleSheet, View } from 'react-native';
 
-import LoadingComponent from './src/components/LoadingComponent';
+import { theme } from './src/theme';
+import Landing from './src/screens/Landing';
 
 export default function App() {
   return (
-    <NativeBaseProvider>
+    <NativeBaseProvider theme={theme}>
       <View style={styles.container}>
-        <LoadingComponent />
+        <Landing />
         <StatusBar style="auto" />
       </View>
     </NativeBaseProvider>
