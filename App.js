@@ -4,12 +4,13 @@ import { StyleSheet, View } from 'react-native';
 
 import { theme } from './src/theme';
 import Landing from './src/screens/Landing';
+import Header from './src/components/Header';
 
 export default function App() {
   return (
     <NativeBaseProvider theme={theme}>
       <View style={styles.container}>
-        <Landing />
+        <Header />
         <StatusBar style="auto" />
       </View>
     </NativeBaseProvider>
