@@ -5,8 +5,8 @@ import { MaterialIcons } from '@expo/vector-icons';
 
 const Header = () => {
   return (
-    <Box safeArea w="100%" padding={2} flex={1}>
-      <HStack backgroundColor="red.500">
+    <Box w="100%" padding={2} backgroundColor="primary.500">
+      <HStack>
         <HStack alignItems="center" flex={1}>
           <Avatar size="sm" source={require('../../assets/PR_Cafe_Logo.jpg')} marginRight={2}>
             PR Cafe

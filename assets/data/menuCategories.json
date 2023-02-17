@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Appetizers",
+            "categoryTranslation": "Aperitivos",
+            "categoryImage": "https://gastronomia.com/uploads/noticias/alcapurria.jpg"
+        },
+        {
+            "id": 2,
+            "categoryName": "Salads",
+            "categoryTranslation": "Ensaladas",
+            "categoryImage": "https://thenoshery.com/wp-content/uploads/2020/10/ensalada-de-coditos-10-scaled-720x540.jpg"
+        },
+        {
+            "id": 3,
+            "categoryName": "Soups",
+            "categoryTranslation": "Sopas",
+            "categoryImage": "https://sazonboricua.com/wp-content/uploads/2014/08/sopa-de-jamon-y-fideos-001-1024x734.jpg"
+        },
+        {
+            "id": 4,
+            "categoryName": "Desserts",
+            "categoryTranslation": "Postres",
+            "categoryImage": "https://hispanicfoodnetwork.com/wp-content/uploads/2021/06/Quesitos-480x270.jpg"
+        },
+        {
+            "id": 5,
+            "categoryName": "Drinks",
+            "categoryTranslation": "Bebidas",
+            "categoryImage": "https://fruitprocessingmachine.com/wp-content/uploads/2020/06/header-drinks.jpg"
+        },
+        {
+            "id": 6,
+            "categoryName": "Sandwiches",
+            "categoryTranslation": "Emparedados",
+            "categoryImage": "https://cdn.vox-cdn.com/thumbor/3vfadPUpAuVp-JdsPNaC7dqm640=/0x0:6720x4480/1200x675/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68479469/3O7A0380.0.jpg"
+        },
+        {
+            "id": 7,
+            "categoryName": "Sides",
+            "categoryTranslation": "Acompañamientos",
+            "categoryImage": "https://www.top10puertorico.com/wp-content/uploads/2019/11/AdobeStock_208375677-1.jpeg"
+        },
+        {
+            "id": 8,
+            "categoryName":"Entrees",
+            "categoryTranslation": "Platos Principales",
+            "categoryImage": "https://live.staticflickr.com/8471/8145916152_68014b0d48_z.jpg"
+        },
+        {
+            "id": 9,
+            "categoryName": "Bread",
+            "categoryTranslation": "Pan",
+            "categoryImage": "https://www.thespruceeats.com/thmb/MT3r-Ir64pgcIOmaw_8wRLjkEdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pan-sobao-4693710-hero-02-1d1ce63167be44a8b58baa1d78c34054.jpg"
+        }
+    ]
+}

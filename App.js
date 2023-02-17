@@ -1,16 +1,15 @@
 import { StatusBar } from 'expo-status-bar';
 import { NativeBaseProvider } from 'native-base';
 import { StyleSheet, View } from 'react-native';
+import Home from './src/screens/Home';
 
 import { theme } from './src/theme';
-import Landing from './src/screens/Landing';
-import Header from './src/components/Header';
 
 export default function App() {
   return (
     <NativeBaseProvider theme={theme}>
       <View style={styles.container}>
-        <Header />
+        <Home />
         <StatusBar style="auto" />
       </View>
     </NativeBaseProvider>
