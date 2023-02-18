@@ -5,289 +5,234 @@
 			"name": "Sorullos",
 			"nameTranslation": "Corn Fritter with Cheese",
 			"image": "https://cielitorosado.com/wp-content/uploads/2022/10/SURULLITOS-sm.jpg",
-			"category":[
-				1,
-			],
+			"category": 1,
 			"price": 1.99,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 2,
 			"name": "Alcapurrias de Guineo",
 			"nameTranslation": "Banana Fritter with Beef",
-			"image": "https://i.ytimg.com/vi/SS4g71XNTBA/maxresdefault.jpg"
-			"category":[
-				1,
-			],
+			"image": "https://i.ytimg.com/vi/SS4g71XNTBA/maxresdefault.jpg",
+			"category": 1,
 			"price": 3.75,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 3,
 			"name": "Alcapurrias de Yuca",
 			"nameTranslation": "Cassava Fritter with Beef",
 			"image": "https://images-gmi-pmc.edge-generalmills.com/664b3fd6-aba0-4ab7-bb9a-ffe97444204a.jpg",
-			"category":[
-				1,
-			],
+			"category": 1,
 			"price": 3.75,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 4,
 			"name": "Empanadillas de Carne",
 			"nameTranslation": "Beef Turnover",
 			"image": "https://i.pinimg.com/474x/37/45/82/374582fa5443659d6f35bf7947756cea--puerto-rican-recipes-puerto-rican-food.jpg",
-			"category":[
-				1,
-			],
+			"category": 1,
 			"price": 3.75,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 5,
 			"name": "Boquitas (5)",
 			"nameTranslation": "Fried Crab Sticks",
 			"image": "https://bbqchef.sg/pub/media/blog/Deep-frying-the-crab-sticks.jpg",
-			"category":[
-				1,
-			],
+			"category": 1,
 			"price": 4.95,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 6,
 			"name": "Ensalada Verde",
 			"nameTranslation": "Spring Mix Salad with Shredded Carrots, Tomato, and Balsamic Dressing",
 			"image": "https://mollisauces.com/wp-content/uploads/2016/08/salad-lettuce-tomatoes-carrots.jpg",
-			"category":[
-				2,
-				7,
-			],
+			"category": 2,
 			"price": 3.95,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 7,
 			"name": "Ensalada de Coditos",
 			"nameTranslation": "Macaroni Salad with Eggs, Red Peppers, and Mayo",
 			"image": "https://thecozycook.com/wp-content/uploads/2022/07/Macaroni-Salad-Recipe-1.jpg",
-			"category":[
-				2,
-				7,
-			],
+			"category": 2,
 			"price": 4.85,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 8,
 			"name": "Ensalada de Papa",
 			"nameTranslation": "Potato Salad with Eggs, Red Peppers, and Mayo",
 			"image": "https://happilyunprocessed.com/wp-content/uploads/2018/05/potato-salad2.jpg.jpg",
-			"category":[
-				1,
-				7,
-			],
+			"category": 2,
 			"price": 4.85,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 9,
 			"name": "Quesitos",
 			"nameTranslation": "Cheese Pastry",
 			"image": "https://hispanicfoodnetwork.com/wp-content/uploads/2021/06/Quesitos-480x270.jpg",
-			"category":[
-				4,
-			],
+			"category": 4,
 			"price": 2.95,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 10,
 			"name": "Flan de Queso",
 			"nameTranslation": "Cheese Flan",
 			"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/25/2/RF0607H_Cheese-Flan_s4x3.jpg.rend.hgtvcom.616.462.suffix/1461767117645.jpeg",
-			"category":[
-				4,
-			],
+			"category": 4,
 			"price": 4.00,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 11,
 			"name": "Mallorca de Queso y Guayaba (16 oz)",
 			"nameTranslation": "Sweet bread with Cheese and Guava",
 			"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/97808465_2962457507173134_5943505460807073792_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9Jxjtey2L50AX8qKDu4&_nc_ht=scontent-iad3-1.xx&oh=00_AfCd9DULqJggNn7cmsbJ381ZuPvkoC0u-F03zBz2-gmNsg&oe=64173896",
-			"category":[
-				4,
-			],
+			"category": 4,
 			"price": 10.00,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 12,
 			"name": "Acerola",
 			"nameTranslation": "",
 			"image": "https://www.tresmonjitas.com/wp-content/uploads/2020/07/Tropical-Splash-Acerola-16oz-1.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.55,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 13,
 			"name": "Guanabana",
 			"nameTranslation": "",
 			"image": "https://www.tresmonjitas.com/wp-content/uploads/2020/07/Tropical-Splash-Guanabana-16oz-1.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.55,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 14,
 			"name": "Parcha",
 			"nameTranslation": "",
 			"image": "https://www.tresmonjitas.com/wp-content/uploads/2020/07/Tropical-Splash-Parcha-16oz-1.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.55,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 15,
 			"name": "Tamarindo",
 			"nameTranslation": "",
 			"image": "https://www.tresmonjitas.com/wp-content/uploads/2020/07/Tropical-Splash-Tamarindo-16oz-1.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.55,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 16,
 			"name": "Malta India",
 			"nameTranslation": "",
 			"image": "https://m.media-amazon.com/images/I/81De0GVfaYL.jpg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.99,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 17,
 			"name": "Piña Buena",
 			"nameTranslation": "",
 			"image": "https://turbifycdn.com/aah/amigofoods/pina-buena-bebida-refrescante-net-wt-16-oz-1.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 18,
 			"name": "Coco Rico",
 			"nameTranslation": "",
 			"image": "https://prcttrading.com/wp-content/uploads/2021/06/19020-coco-rico-500x500.jpg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.45,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 19,
 			"name": "Kola Champagne India",
 			"nameTranslation": "",
 			"image": "https://m.media-amazon.com/images/I/71BT2EJfAoL.jpg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.45,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 20,
 			"name": "Kola Champagne Good O",
 			"nameTranslation": "",
 			"image": "https://prcttrading.com/wp-content/uploads/2021/06/19018-goodo.jpg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.45,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 21,
 			"name": "Grape India",
 			"nameTranslation": "",
 			"image": "https://cdn.shopify.com/s/files/1/0532/1877/1132/products/PuertoRico-IndiaGrapeflavoredsoda.jpg?v=1638906222",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.45,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 22,
 			"name": "Diet Coke",
 			"nameTranslation": "",
 			"image": "https://i5.walmartimages.com/asr/4719d66b-2a43-4665-a397-beabe8d5bde6.e8c30e92bd376af5e0990d13e34668e2.jpeg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 23,
 			"name": "Coke",
 			"nameTranslation": "",
 			"image": "https://www.meijer.com/content/dam/meijer/product/0004/90/0000/04/0004900000044_2_A1C1_1200.png",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 24,
 			"name": "Sprite",
 			"nameTranslation": "",
 			"image": "https://i5.walmartimages.com/asr/254bc01d-cd96-4e3a-97e0-e20a0e71a801.4adacbbdebfb3e3eadc7e2044b9db9f9.jpeg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 25,
 			"name": "Ginger Ale",
 			"nameTranslation": "",
 			"image": "https://i5.walmartimages.com/asr/6fb5c8f8-8a9e-4447-b74e-19b5f541600c.497d6d6f0688e34ea3bddbd2d94e4b38.jpeg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
+			"unit": "ea"
 		},
 		{
 			"id": 26,
 			"name": "Fanta Orange",
 			"nameTranslation": "",
 			"image": "https://i5.walmartimages.com/asr/8ab926fc-c774-449f-8fd9-525e4108c22a.ddd1b31eaeb21844247661ff397de829.jpeg",
-			"category":[
-				5,
-			],
+			"category": 5,
 			"price": 2.65,
-			"unit": "ea",
-		},
+			"unit": "ea"
+		}
 	]
 }

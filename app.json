@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "Puerto Rico Cafe",
-    "slug": "prcafe",
+    "slug": "puerto-rico-cafe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/prFlag.jpg",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "105dbfe0-83bd-43ea-b687-0618be57877c"
+      }
+    },
+    "owner": "dbobepr"
   }
 }

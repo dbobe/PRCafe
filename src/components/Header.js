@@ -8,10 +8,10 @@ const Header = () => {
     <Box w="100%" padding={2} backgroundColor="primary.500">
       <HStack>
         <HStack alignItems="center" flex={1}>
-          <Avatar size="sm" source={require('../../assets/PR_Cafe_Logo.jpg')} marginRight={2}>
+          <Avatar size="md" source={require('../../assets/PR_Cafe_Logo.jpg')} marginRight={2}>
             PR Cafe
           </Avatar>
-          <Heading size="md">Puerto Rico Cafe</Heading>
+          <Heading size="lg">Puerto Rico Cafe</Heading>
         </HStack>
         <IconButton icon={<Icon as={MaterialIcons} name="menu" />} />
       </HStack>
